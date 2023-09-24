@@ -1,1 +1,3 @@
-console.log("hello world");
+const user = "Phillip";
+console.log("BARCA");
+console.log("hello " + user);
